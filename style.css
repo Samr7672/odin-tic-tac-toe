@@ -1,0 +1,39 @@
+body{
+    width:100vh;
+    box-sizing:border-box;
+    margin:auto;
+    padding:0;
+}
+.game{
+    display:flex;
+    justify-content: center;
+    margin:auto;
+    background-color:cornflowerblue;
+    font: bolder 15px/1.5 Arial, sans-serif;
+}
+.text{
+    margin-top:100px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+}
+.container{
+    margin-top:70px;
+    height:70vh;
+    width:70vh;
+    border-radius: 10%;
+    display:none;
+    grid-template-columns: repeat(3,33.3%);
+    grid-template-rows:repeat(3,33.3%);
+}
+.info{
+    display:flex;
+    flex-direction:column;
+}
+.board{
+    border:2px solid darkblue;
+    
+    
+
+
+}
