@@ -1,5 +1,7 @@
 # Tic Tac Toe Game
 
+Site Link:https://samr7672.github.io/odin-tic-tac-toe/
+
 A classic Tic Tac Toe game built as part of [The Odin Project](https://www.theodinproject.com/) curriculum. This web-based game allows two players to compete in the timeless strategy game right in their browser.
 
 ## Features
